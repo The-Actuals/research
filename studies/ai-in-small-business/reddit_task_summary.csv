@@ -1,0 +1,28 @@
+sub_group,task,posts_primary,posts_any_mention,worked,mixed,failed,unclear,promo_suspect,base_unique_use_posts,source_url,checked_on
+founder_subs,customer support,1,4,0,0,0,1,1,65,reddit_posts.csv (see url column),2026-10-28
+founder_subs,lead gen/outreach,10,14,8,1,0,1,6,65,reddit_posts.csv (see url column),2026-10-28
+founder_subs,content/marketing,19,29,15,1,0,3,7,65,reddit_posts.csv (see url column),2026-10-28
+founder_subs,sales calls,2,2,2,0,0,0,1,65,reddit_posts.csv (see url column),2026-10-28
+founder_subs,bookkeeping/admin,1,2,0,1,0,0,0,65,reddit_posts.csv (see url column),2026-10-28
+founder_subs,coding/building the product,23,30,11,8,1,3,6,65,reddit_posts.csv (see url column),2026-10-28
+founder_subs,research,6,15,4,0,0,2,1,65,reddit_posts.csv (see url column),2026-10-28
+founder_subs,operations/scheduling,2,7,2,0,0,0,2,65,reddit_posts.csv (see url column),2026-10-28
+founder_subs,other,1,3,1,0,0,0,0,65,reddit_posts.csv (see url column),2026-10-28
+AI_Agents,customer support,3,9,2,0,1,0,2,16,reddit_posts.csv (see url column),2026-10-28
+AI_Agents,lead gen/outreach,2,3,1,1,0,0,0,16,reddit_posts.csv (see url column),2026-10-28
+AI_Agents,content/marketing,1,4,1,0,0,0,0,16,reddit_posts.csv (see url column),2026-10-28
+AI_Agents,sales calls,0,0,0,0,0,0,0,16,reddit_posts.csv (see url column),2026-10-28
+AI_Agents,bookkeeping/admin,4,4,2,1,1,0,0,16,reddit_posts.csv (see url column),2026-10-28
+AI_Agents,coding/building the product,3,6,2,0,1,0,0,16,reddit_posts.csv (see url column),2026-10-28
+AI_Agents,research,0,4,0,0,0,0,0,16,reddit_posts.csv (see url column),2026-10-28
+AI_Agents,operations/scheduling,1,6,1,0,0,0,0,16,reddit_posts.csv (see url column),2026-10-28
+AI_Agents,other,2,3,0,1,0,1,2,16,reddit_posts.csv (see url column),2026-10-28
+all,customer support,4,13,2,0,1,1,3,81,reddit_posts.csv (see url column),2026-10-28
+all,lead gen/outreach,12,17,9,2,0,1,6,81,reddit_posts.csv (see url column),2026-10-28
+all,content/marketing,20,33,16,1,0,3,7,81,reddit_posts.csv (see url column),2026-10-28
+all,sales calls,2,2,2,0,0,0,1,81,reddit_posts.csv (see url column),2026-10-28
+all,bookkeeping/admin,5,6,2,2,1,0,0,81,reddit_posts.csv (see url column),2026-10-28
+all,coding/building the product,26,36,13,8,2,3,6,81,reddit_posts.csv (see url column),2026-10-28
+all,research,6,19,4,0,0,2,1,81,reddit_posts.csv (see url column),2026-10-28
+all,operations/scheduling,3,13,3,0,0,0,2,81,reddit_posts.csv (see url column),2026-10-28
+all,other,3,6,1,1,0,1,2,81,reddit_posts.csv (see url column),2026-10-28

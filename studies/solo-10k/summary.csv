@@ -1,0 +1,49 @@
+table,label,count,pct,median_monthly_revenue_usd
+by_category,SaaS,30,33.7,16250
+by_category,other,12,13.5,32708
+by_category,ecommerce/DTC,11,12.4,50000
+by_category,newsletter/media,10,11.2,15144
+by_category,app,8,9.0,44834
+by_category,info product/course,6,6.7,22500
+by_category,unclear,6,6.7,20000
+by_category,agency/service,6,6.7,17500
+revenue_band,10k-20k,37,41.6,
+revenue_band,20k-50k,29,32.6,
+revenue_band,50k-100k,13,14.6,
+revenue_band,100k+,10,11.2,
+growth_channel_mentions (n=22 rows naming any),paid ads,8,36.4,
+growth_channel_mentions (n=22 rows naming any),marketplaces/app stores,4,18.2,
+growth_channel_mentions (n=22 rows naming any),word of mouth,4,18.2,
+growth_channel_mentions (n=22 rows naming any),SEO,3,13.6,
+growth_channel_mentions (n=22 rows naming any),Reddit,3,13.6,
+growth_channel_mentions (n=22 rows naming any),Instagram,2,9.1,
+growth_channel_mentions (n=22 rows naming any),other,2,9.1,
+growth_channel_mentions (n=22 rows naming any),cold outreach,2,9.1,
+growth_channel_mentions (n=22 rows naming any),Product Hunt,1,4.5,
+growth_channel_mentions (n=22 rows naming any),community/forums,1,4.5,
+growth_channel_mentions (n=22 rows naming any),X/Twitter,1,4.5,
+growth_channel_mentions (n=22 rows naming any),TikTok,1,4.5,
+growth_channel_mentions (n=22 rows naming any),YouTube,0,0,
+growth_channel_mentions (n=22 rows naming any),newsletter,0,0,
+growth_channel_mentions (n=22 rows naming any),LinkedIn,0,0,
+business_age_years_at_claim (n=25),0,1,,
+business_age_years_at_claim (n=25),1,2,,
+business_age_years_at_claim (n=25),2,3,,
+business_age_years_at_claim (n=25),3,6,,
+business_age_years_at_claim (n=25),4,2,,
+business_age_years_at_claim (n=25),6,3,,
+business_age_years_at_claim (n=25),7,1,,
+business_age_years_at_claim (n=25),8,2,,
+business_age_years_at_claim (n=25),9,2,,
+business_age_years_at_claim (n=25),11,1,,
+business_age_years_at_claim (n=25),13,1,,
+business_age_years_at_claim (n=25),17,1,,
+solo_basis,implicit,59,66.3,
+solo_basis,explicit,24,27.0,
+solo_basis,explicit_with_contractors,6,6.7,
+funnel,unique HN comments + Reddit top posts scanned (15,829 HN + 7,300 Reddit),23129
+funnel,"candidates with a $8K+ figure, read in full",1616,,
+funnel,"qualifying claims (own, internet, solo, >=$10K/mo)",101,,
+funnel,unique businesses (deduped),89,,
+funnel,explicitly say they work alone,30,,
+funnel,payment-provider verified,0,,
